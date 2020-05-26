@@ -1,0 +1,271 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "pune"
+    ],
+    "features": [
+        {
+            "id": "place.8062017710444500",
+            "type": "Feature",
+            "place_type": [
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q1538"
+            },
+            "text": "Pune",
+            "place_name": "Pune, Maharashtra, India",
+            "bbox": [
+                73.4316172189937,
+                18.1755791821743,
+                74.2023714809555,
+                18.6788939529226
+            ],
+            "center": [
+                73.84778,
+                18.52361
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.84778,
+                    18.52361
+                ]
+            },
+            "context": [
+                {
+                    "id": "district.8749669252444500",
+                    "wikidata": "Q1797336",
+                    "text": "Pune"
+                },
+                {
+                    "id": "region.13362569948386080",
+                    "short_code": "IN-MH",
+                    "wikidata": "Q1191",
+                    "text": "Maharashtra"
+                },
+                {
+                    "id": "country.9973599353579250",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        },
+        {
+            "id": "poi.609885363689",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "landmark": true,
+                "address": "Ground Floor, JW Marriott",
+                "category": "confectionery, confection, sweets, candy store, candy, candies, chocolatier, chocolate, craft, shop"
+            },
+            "text": "Pune Baking Company",
+            "place_name": "Pune Baking Company, Ground Floor, JW Marriott, Pune, Maharashtra, India",
+            "center": [
+                73.82983200000001,
+                18.5328765
+            ],
+            "geometry": {
+                "coordinates": [
+                    73.82983200000001,
+                    18.5328765
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "locality.10161302589114370",
+                    "text": "Jeevan Vihar"
+                },
+                {
+                    "id": "place.8062017710444500",
+                    "wikidata": "Q1538",
+                    "text": "Pune"
+                },
+                {
+                    "id": "district.8749669252444500",
+                    "wikidata": "Q1797336",
+                    "text": "Pune"
+                },
+                {
+                    "id": "region.13362569948386080",
+                    "short_code": "IN-MH",
+                    "wikidata": "Q1191",
+                    "text": "Maharashtra"
+                },
+                {
+                    "id": "country.9973599353579250",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        },
+        {
+            "id": "poi.85899400007",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "landmark": true,
+                "address": "Oderberger Str. 28",
+                "category": "indian restaurant, indian food, restaurant"
+            },
+            "text": "Pune",
+            "place_name": "Pune, Oderberger Str. 28, Berlin, 10435, Germany",
+            "center": [
+                13.405596,
+                52.540131
+            ],
+            "geometry": {
+                "coordinates": [
+                    13.405596,
+                    52.540131
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "locality.5143253663335150",
+                    "text": "Prenzlauer Berg"
+                },
+                {
+                    "id": "postcode.12322974288443450",
+                    "text": "10435"
+                },
+                {
+                    "id": "place.13791632787564380",
+                    "short_code": "DE-BE",
+                    "wikidata": "Q64",
+                    "text": "Berlin"
+                },
+                {
+                    "id": "country.10015999637480410",
+                    "short_code": "de",
+                    "wikidata": "Q183",
+                    "text": "Germany"
+                }
+            ]
+        },
+        {
+            "id": "poi.42949715626",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "landmark": true,
+                "address": "Ascent Mall A Division, University Road",
+                "category": "department store, department, shop, home appliance"
+            },
+            "text": "Pune Central",
+            "place_name": "Pune Central, Ascent Mall A Division, University Road, Pune, Maharashtra, India",
+            "center": [
+                73.838814,
+                18.534739
+            ],
+            "geometry": {
+                "coordinates": [
+                    73.838814,
+                    18.534739
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "locality.13650455707249660",
+                    "text": "Shivaji Nagar"
+                },
+                {
+                    "id": "place.8062017710444500",
+                    "wikidata": "Q1538",
+                    "text": "Pune"
+                },
+                {
+                    "id": "district.8749669252444500",
+                    "wikidata": "Q1797336",
+                    "text": "Pune"
+                },
+                {
+                    "id": "region.13362569948386080",
+                    "short_code": "IN-MH",
+                    "wikidata": "Q1191",
+                    "text": "Maharashtra"
+                },
+                {
+                    "id": "country.9973599353579250",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        },
+        {
+            "id": "poi.644245140988",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "landmark": true,
+                "address": "Shivaji Nagar",
+                "category": "college, university",
+                "maki": "college"
+            },
+            "text": "College Of Engineering",
+            "place_name": "College Of Engineering, Shivaji Nagar, Pune, Maharashtra, India",
+            "matching_text": "Pune (COEP)",
+            "matching_place_name": "Pune (COEP), Shivaji Nagar, Pune, Maharashtra, India",
+            "center": [
+                73.855986,
+                18.529718
+            ],
+            "geometry": {
+                "coordinates": [
+                    73.855986,
+                    18.529718
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "locality.13650455707249660",
+                    "text": "Shivaji Nagar"
+                },
+                {
+                    "id": "place.8062017710444500",
+                    "wikidata": "Q1538",
+                    "text": "Pune"
+                },
+                {
+                    "id": "district.8749669252444500",
+                    "wikidata": "Q1797336",
+                    "text": "Pune"
+                },
+                {
+                    "id": "region.13362569948386080",
+                    "short_code": "IN-MH",
+                    "wikidata": "Q1191",
+                    "text": "Maharashtra"
+                },
+                {
+                    "id": "country.9973599353579250",
+                    "short_code": "in",
+                    "wikidata": "Q668",
+                    "text": "India"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2020 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
